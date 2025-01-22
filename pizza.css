@@ -1,0 +1,71 @@
+@font-face {
+    font-family: young-serif;
+    src: url(./fonts/young-serif/OFL.txt);
+}
+body{
+    background-color: hsl(30, 54%, 90%);
+   
+
+}
+
+.pizza{
+    background-color: hsl(0, 0%, 100%);
+    width: 50%;
+    height: 1200px;
+    border-radius: 20px;
+    border: 1px solid green;
+    margin: 30px auto;
+    padding: 30px;
+    overflow: hidden;
+    font-family: ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    font-size: 0.8em;
+    
+}
+
+.text6{
+    border-bottom: 1px solid rgb(220, 220, 220);
+    border-top: 1px solid rgb(220, 220, 220);
+}
+
+img{
+    border-radius: 25px;
+}
+
+.image{
+    background-color: white;
+}
+
+.texte-one{
+
+    background-color: white;
+
+}
+.table-nutrition{
+    width: 100%;
+    border-collapse: collapse;
+}
+tr{
+    border-bottom: 1px solid black;
+}
+td{
+    padding: 10px;
+}
+.ligne{
+    border: none;
+}
+.value{
+    font-weight: bold;
+    color: brown;
+}
+ul{
+    margin: 16px 0;
+}
+
+ol{
+    margin: 16px 0;
+}
+
+#trow{
+    border-bottom: 1px solid rgb(220, 220, 220);
+    border-top: 1px solid rgb(220, 220, 220);
+}
